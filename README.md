@@ -4,9 +4,6 @@ Animated Gif Blocker for Firefox Quantum, a work in progress.
 
 ## Links for Reference:
 
-* one
-* Two
-
 * https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension
 * https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_second_WebExtension
 
